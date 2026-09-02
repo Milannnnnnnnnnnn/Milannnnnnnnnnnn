@@ -1,85 +1,116 @@
 <div align="center">
 
-<!-- Typing SVG Header -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&lines=Hi+%F0%9F%90%8B%2C+I'm+Milan!;A+Passionate+Frontend+Developer;Building+Modern+%26+Responsive+Websites;Tech+Explorer+%26+Creative+Coder" alt="Typing SVG" />
-</a>
+# 👋 Hi, I'm Milan!
 
-<p align="center">
-  <b>Frontend Developer • UI/UX Enthusiast • Open Source Contributor</b>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vcenter=true&width=700&lines=Frontend+Developer;Creative+Coder;UI%2FUX+Enthusiast;Building+Modern+Web+Experiences;Always+Learning+Something+New" alt="Typing SVG" />
+
+<p>
+  <strong>Frontend Developer</strong> •
+  <strong>UI/UX Enthusiast</strong> •
+  <strong>Creative Coder</strong>
 </p>
 
-<!-- Profile Views & Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=milannnnnnnnnnnn&label=Profile%20Views&color=0284c7&style=for-the-badge" alt="Profile Views" />
+<p>
   <a href="https://github.com/milannnnnnnnnnnn?tab=followers">
-    <img src="https://img.shields.io/github/followers/milannnnnnnnnnnn?label=Followers&logo=github&style=for-the-badge&color=10b981" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/milannnnnnnnnnnn?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=10b981" alt="GitHub Followers">
   </a>
-  <a href="https://github.com/milannnnnnnnnnnn">
-    <img src="https://img.shields.io/badge/Status-Building%20Cool%20Projects-8b5cf6?style=for-the-badge" alt="Status" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=milannnnnnnnnnnn&label=Profile%20Views&style=for-the-badge&color=0284c7" alt="Profile Views">
+  <img src="https://img.shields.io/github/stars/milannnnnnnnnnnn?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=f59e0b" alt="GitHub Stars">
 </p>
-
----
 
 </div>
 
-## 💫 About Me
+---
+
+## 🚀 About Me
 
 ```text
-🧑‍💻 Frontend Developer from India, passionate about building aesthetic & high-performance web applications.
-🚀 Constantly exploring modern frameworks, mobile dev, and creative backend technologies.
-🎓 Dedicated to clean code, great UX design, and continuous learning.
+🧑‍💻 Frontend Developer passionate about creating modern and interactive websites.
+🎨 I enjoy combining clean UI/UX with functional and maintainable code.
+⚡ Always experimenting with new technologies and creative ideas.
+🔧 I also enjoy working with Arduino, hardware, and DIY projects.
+📚 Learning continuously and building projects along the way.
 ```
 
-- 🔭 **Currently working on:** Next.js & Modern Web Applications
-- 🌱 **Currently learning:** Advanced State Management & Web Animations
-- 💬 **Ask me about:** HTML, CSS, JavaScript, React, Next.js, Figma
-- ⚡ **Fun Fact:** I enjoy bridging creative design with functional code!
+* 🔭 **Currently working on:** Modern web applications & personal projects
+* 🌱 **Currently learning:** Advanced React, Next.js, animations & backend technologies
+* 💬 **Ask me about:** HTML, CSS, JavaScript, React, Next.js, Figma & Arduino
+* 🎯 **Goal:** Build useful, beautiful and high-performance applications
+* ⚡ **Fun fact:** I love turning creative ideas into working projects
 
 ---
 
-## 🌐 Connect With Me
+## 🧠 Tech Stack
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/YOUR-TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://instagram.com/YOUR-INSTAGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,php,bash&theme=dark" alt="Languages">
+</p>
+
+### ⚛️ Frameworks & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,laravel,nodejs,flutter&theme=dark" alt="Frameworks">
+</p>
+
+### 🗄️ Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,appwrite,mysql,mariadb&theme=dark" alt="Backend and Database">
+</p>
+
+### 🎨 Design & Creative Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ps,blender,unity&theme=dark" alt="Design Tools">
+</p>
+
+### 🛠️ Tools & Hardware
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,arduino&theme=dark" alt="Tools and Hardware">
 </p>
 
 ---
 
-## 🛠️ Languages and Tools
+## 📌 What I Like Building
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,php,bash,nextjs,nestjs,laravel,nodejs,flutter,firebase,appwrite,mysql,mariadb,figma,ps,blender,unity,git,arduino&theme=dark&perline=11" alt="My Skills" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%">
 
-<details>
-<summary><b>🔍 Detailed Tech Stack Breakdown</b></summary>
+### 🌐 Web Development
 
-<br/>
+Modern, responsive and interactive websites with a focus on performance and user experience.
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | `JavaScript` `C++` `Java` `PHP` `HTML5` `CSS3` `Bash` |
-| **Frontend & Frameworks** | `Next.js` `Flutter` `NestJS` `Laravel` |
-| **Backend & Database** | `Node.js` `Firebase` `Appwrite` `MySQL` `MariaDB` |
-| **Design & 3D Tools** | `Figma` `Photoshop` `Blender` `Unity` |
-| **Tools & Hardware** | `Git` `Arduino` |
+</td>
+<td width="50%">
 
-</details>
+### 🎨 UI / UX
+
+Clean interfaces, visual systems and user-friendly experiences designed with attention to detail.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⚙️ Backend
+
+APIs, databases and application infrastructure using modern backend technologies.
+
+</td>
+<td width="50%">
+
+### 🤖 Hardware & Arduino
+
+DIY electronics, Arduino projects, automation and experiments that connect software with hardware.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -87,28 +118,76 @@
 
 <div align="center">
 
-| 📈 **GitHub Stats** | 🏆 **GitHub Streak** |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=milannnnnnnnnnnn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" alt="GitHub Stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=milannnnnnnnnnnn&theme=tokyonight&hide_border=true" width="400" alt="GitHub Streak" /> |
+<img src="https://github-readme-stats.vercel.app/api?username=milannnnnnnnnnnn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats">
 
-<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=milannnnnnnnnnnn&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak">
 
-### 💻 Most Used Languages
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=milannnnnnnnnnnn&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" width="500" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milannnnnnnnnnnn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%" alt="Top Languages">
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/milannnnnnnnnnnn/milannnnnnnnnnnn/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+
+<img src="https://raw.githubusercontent.com/milannnnnnnnnnnn/milannnnnnnnnnnn/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=milannnnnnnnnnnn&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph">
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/milannnnnnnnnnnn">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<!-- Ganti link di bawah dengan akunmu -->
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://instagram.com/YOUR-INSTAGRAM">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+</div>
+
+---
+
+## 💻 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/milannnnnnnnnnnn?tab=repositories">
+  <img src="https://img.shields.io/badge/🚀_Explore_My_Repositories-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories">
+</a>
+
 </div>
 
 ---
 
 <div align="center">
-  <i>✨ Designed with ❤️ by Milan • Powered by GitHub Markdown ✨</i>
+
+### ✨ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0284c7,100:38bdf8&height=120&section=footer" width="100%" alt="Footer">
+
 </div>
