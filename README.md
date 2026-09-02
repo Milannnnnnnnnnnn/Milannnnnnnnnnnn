@@ -1,6 +1,18 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=MILAN&fontSize=80&fontAlignY=38&animation=twinkling&color=gradient" width="100%"/>
+
+<br>
+
 # Building things that look good, work well, and make me curious.
 
-`🌐 MODERN WEB`    `⚛️ REACT`    `⚙️ BACKEND`    `🎨 UI/UX`    `🤖 ARDUINO`
+<br>
+
+`🌐 MODERN WEB`    `⚛️ REACT`    `⚙️ BACKEND`    `🎨 UI/UX`    `🤖 ARDUINO`
+
+</div>
+
+<br>
 
 ---
 
@@ -38,15 +50,27 @@ Combining design and technology through **UI/UX, 3D experiments, animations and 
 
 ### Frontend
 
-`HTML`   `CSS`   `JavaScript`   `React`   `Next.js`   `Tailwind CSS`
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+
+</div>
 
 ### Backend
 
-`Node.js`   `Python`   `PHP`   `MySQL`   `MongoDB`   `REST API`
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,php,mysql,mongodb" />
+
+</div>
 
 ### Hardware & Tools
 
-`Arduino`   `C++`   `Git`   `GitHub`   `VS Code`   `Figma`
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=arduino,cpp,git,github,vscode,figma" />
+
+</div>
 
 ---
 
@@ -54,9 +78,9 @@ Combining design and technology through **UI/UX, 3D experiments, animations and 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%"/>
 
 </div>
 
@@ -66,7 +90,7 @@ Combining design and technology through **UI/UX, 3D experiments, animations and 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="95%"/>
 
 </div>
 
@@ -74,11 +98,13 @@ Combining design and technology through **UI/UX, 3D experiments, animations and 
 
 ## ✦ Contribution Snake
 
-🐍 **Eating contributions one commit at a time.**
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" width="100%">
+🐍 **Eating contributions one commit at a time.**
+
+<br>
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" width="95%"/>
 
 </div>
 
@@ -114,7 +140,11 @@ An experimental interface exploring animation, interaction and modern design.
 
 ## ✦ The Way I Build
 
+<div align="center">
+
 **IDEA** → 💡 Explore → **PLAN** → 🧠 Understand → **BUILD** → ⚙️ Create → **BREAK** → 🐛 Debug → **IMPROVE** → ✨ Refine → **SHIP** → 🚀 Release
+
+</div>
 
 ---
 
@@ -126,7 +156,7 @@ I don't believe everything needs to be perfect before it is built.
 
 Sometimes the best way to learn something is simply to **make it**.
 
-`CURIOUS`   `CREATIVE`   `EXPERIMENTAL`   `PERSISTENT`
+`CURIOUS`   `CREATIVE`   `EXPERIMENTAL`   `PERSISTENT`
 
 ---
 
@@ -135,15 +165,15 @@ Sometimes the best way to learn something is simply to **make it**.
 <div align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
@@ -151,8 +181,6 @@ Sometimes the best way to learn something is simply to **make it**.
 ---
 
 <div align="center">
-
-### Thanks for visiting my profile.
 
 **Designed & built by Milan • Always learning • Always building**
 
