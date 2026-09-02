@@ -1,156 +1,226 @@
 <div align="center">
 
-# 👋 Hi, I'm Milan!
+<img src="./assets/banner.png" width="100%" alt="Milan Banner">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vcenter=true&width=700&lines=Frontend+Developer;Creative+Coder;UI%2FUX+Enthusiast;Building+Modern+Web+Experiences;Always+Learning+Something+New" alt="Typing SVG" />
+<br>
+
+<img src="./assets/profile.png" width="150" height="150" alt="Milan Profile Picture">
+
+<br><br>
+
+# 👋 Hi, I'm Milan
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38BDF8&center=true&vcenter=true&width=650&lines=Frontend+Developer;Creative+Coder;UI%2FUX+Enthusiast;Web+%26+App+Developer;Arduino+%26+DIY+Enthusiast" alt="Typing Animation">
 
 <p>
-  <strong>Frontend Developer</strong> •
-  <strong>UI/UX Enthusiast</strong> •
-  <strong>Creative Coder</strong>
+  <strong>Building ideas into beautiful and functional digital experiences.</strong>
 </p>
 
-<p>
-  <a href="https://github.com/milannnnnnnnnnnn?tab=followers">
-    <img src="https://img.shields.io/github/followers/milannnnnnnnnnnn?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=10b981" alt="GitHub Followers">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=milannnnnnnnnnnn&label=Profile%20Views&style=for-the-badge&color=0284c7" alt="Profile Views">
-  <img src="https://img.shields.io/github/stars/milannnnnnnnnnnn?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=f59e0b" alt="GitHub Stars">
-</p>
+<br>
+
+<a href="https://github.com/milannnnnnnnnnnn">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="https://github.com/milannnnnnnnnnnn?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Projects">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=milannnnnnnnnnnn&style=for-the-badge&label=PROFILE+VIEWS&color=0ea5e9" alt="Profile Views">
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-```text
-🧑‍💻 Frontend Developer passionate about creating modern and interactive websites.
-🎨 I enjoy combining clean UI/UX with functional and maintainable code.
-⚡ Always experimenting with new technologies and creative ideas.
-🔧 I also enjoy working with Arduino, hardware, and DIY projects.
-📚 Learning continuously and building projects along the way.
-```
+<img align="right" src="./assets/profile.png" width="220" alt="Milan">
 
-* 🔭 **Currently working on:** Modern web applications & personal projects
-* 🌱 **Currently learning:** Advanced React, Next.js, animations & backend technologies
-* 💬 **Ask me about:** HTML, CSS, JavaScript, React, Next.js, Figma & Arduino
-* 🎯 **Goal:** Build useful, beautiful and high-performance applications
-* ⚡ **Fun fact:** I love turning creative ideas into working projects
+I'm a developer who enjoys combining **technology, creativity, and problem solving** to build useful things.
+
+I enjoy exploring modern web technologies, designing interfaces, experimenting with applications, and occasionally going beyond software into **Arduino and DIY hardware projects**.
+
+### 💡 Currently
+
+* 🔭 Working on modern web applications
+* 🌱 Learning advanced React, Next.js and backend development
+* 🎨 Exploring UI/UX and interactive web experiences
+* 🤖 Experimenting with Arduino and DIY electronics
+* 📚 Continuously learning new technologies
+* 🚀 Building projects to turn ideas into reality
+
+<br clear="right"/>
 
 ---
 
-## 🧠 Tech Stack
+# 🧰 Tech Stack
+
+<div align="center">
 
 ### 💻 Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,php,bash&theme=dark" alt="Languages">
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,php,bash&theme=dark" alt="Programming Languages">
 
 ### ⚛️ Frameworks & Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,laravel,nodejs,flutter&theme=dark" alt="Frameworks">
-</p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,nestjs,laravel,nodejs,flutter&theme=dark" alt="Frameworks">
 
 ### 🗄️ Backend & Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,appwrite,mysql,mariadb&theme=dark" alt="Backend and Database">
-</p>
+<img src="https://skillicons.dev/icons?i=firebase,appwrite,mysql,mariadb&theme=dark" alt="Backend">
 
-### 🎨 Design & Creative Tools
+### 🎨 Design & Creative
 
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,ps,blender,unity&theme=dark" alt="Design Tools">
-</p>
+<img src="https://skillicons.dev/icons?i=figma,photoshop,blender,unity&theme=dark" alt="Design Tools">
 
 ### 🛠️ Tools & Hardware
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,arduino&theme=dark" alt="Tools and Hardware">
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,arduino&theme=dark" alt="Tools">
+
+</div>
 
 ---
 
-## 📌 What I Like Building
+# 🎯 What I Do
 
-<table>
+<table align="center">
 <tr>
-<td width="50%">
 
-### 🌐 Web Development
+<td width="50%" valign="top">
 
-Modern, responsive and interactive websites with a focus on performance and user experience.
+## 🌐 Web Development
+
+I build responsive websites and modern web applications with a focus on:
+
+* ⚡ Performance
+* 📱 Responsive design
+* 🧩 Clean architecture
+* 🎨 Modern UI
+* 🔐 Reliable backend integration
 
 </td>
-<td width="50%">
 
-### 🎨 UI / UX
+<td width="50%" valign="top">
 
-Clean interfaces, visual systems and user-friendly experiences designed with attention to detail.
+## 🎨 UI / UX
+
+I enjoy designing interfaces that are:
+
+* ✨ Clean
+* 🧠 Easy to understand
+* 📱 Responsive
+* 🎯 User-focused
+* 💎 Visually polished
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-### ⚙️ Backend
+<td width="50%" valign="top">
 
-APIs, databases and application infrastructure using modern backend technologies.
+## 🤖 Arduino & Hardware
+
+I also enjoy experimenting with:
+
+* Arduino
+* DIY electronics
+* Sensors
+* Motors
+* Automation
+* CNC projects
 
 </td>
-<td width="50%">
 
-### 🤖 Hardware & Arduino
+<td width="50%" valign="top">
 
-DIY electronics, Arduino projects, automation and experiments that connect software with hardware.
+## 🧪 Experiments
+
+I like learning by building things.
+
+Some projects are serious applications, while others are simply experiments to understand how technology works.
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=milannnnnnnnnnnn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=milannnnnnnnnnnn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Statistics">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=milannnnnnnnnnnn&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak">
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milannnnnnnnnnnn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milannnnnnnnnnnn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="45%" alt="Most Used Languages">
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/milannnnnnnnnnnn/milannnnnnnnnnnn/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=milannnnnnnnnnnn&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Activity">
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=milannnnnnnnnnnn&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph">
+<img src="https://raw.githubusercontent.com/milannnnnnnnnnnn/milannnnnnnnnnnn/output/github-contribution-grid-snake.svg" width="95%" alt="Contribution Snake">
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/milannnnnnnnnnnn?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20My%20Projects-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects">
+</a>
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🖥️ Modern Web Projects
+
+Websites and applications built using modern frontend and backend technologies.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 Arduino Projects
+
+DIY hardware experiments, automation, motor control and other Arduino-based projects.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -158,13 +228,16 @@ DIY electronics, Arduino projects, automation and experiments that connect softw
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
-<!-- Ganti link di bawah dengan akunmu -->
+<!--
+GANTI LINK DI BAWAH DENGAN AKUN ASLI KAMU.
+Hapus badge yang tidak kamu gunakan.
+-->
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://linkedin.com">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="https://instagram.com/YOUR-INSTAGRAM">
+<a href="https://instagram.com">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
@@ -172,21 +245,9 @@ DIY electronics, Arduino projects, automation and experiments that connect softw
 
 ---
 
-## 💻 Featured Projects
-
 <div align="center">
 
-<a href="https://github.com/milannnnnnnnnnnn?tab=repositories">
-  <img src="https://img.shields.io/badge/🚀_Explore_My_Repositories-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ Thanks for visiting my profile!
+### 💙 Thanks for visiting my profile!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0284c7,100:38bdf8&height=120&section=footer" width="100%" alt="Footer">
 
