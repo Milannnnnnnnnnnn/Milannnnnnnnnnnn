@@ -1,12 +1,6 @@
-<div align="center">
+# Building things that look good, work well, and make me curious.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=MILAN&fontSize=80&fontAlignY=38&animation=twinkling&color=gradient" width="100%">
-
-### Building things that look good, work well, and make me curious.
-
-`🌐 MODERN WEB`   `⚛️ REACT`   `⚙️ BACKEND`   `🎨 UI/UX`   `🤖 ARDUINO`
-
-</div>
+`🌐 MODERN WEB`    `⚛️ REACT`    `⚙️ BACKEND`    `🎨 UI/UX`    `🤖 ARDUINO`
 
 ---
 
@@ -20,59 +14,39 @@ My interests sit somewhere between **web development, design, software and hardw
 
 ---
 
-<div align="center">
-
-## ✦ Welcome to My Digital Aquarium
-
-🌊 ───────────────────────────────────────── 🌊
-
-🐟　　　　　　　　　　　　　　　　　🐠
-
-　　　🫧　　　　　　　　　🫧
-
-　　　　　　🐟
-
-　🫧　　　　　　　　　　　　　　🫧
-
-　　　　　　　　　🐠
-
-🌊 ───────────────────────────────────────── 🌊
-
-**Something is always moving around here...**
-
-</div>
-
----
-
 ## ✦ What I Build
 
-| 🌐 Modern Web                                                                                           | 🤖 Hardware                                                                                                           |
-| ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| Modern websites and applications focused on responsive design, performance and smooth user experiences. | DIY electronics, Arduino experiments, motor control, automation and projects where software meets the physical world. |
+### 🌐 Modern Web
 
-| ⚙️ Software & Backend                                                                            | 🎨 Design & Interaction                                                                        |
-| ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
-| Applications, APIs and tools designed to solve practical problems and automate repetitive tasks. | UI/UX, 3D experiments, animations and interactive experiences combining design and technology. |
+Modern websites and applications with a focus on **responsive design, performance and smooth user experiences**.
+
+### 🤖 Hardware & Electronics
+
+DIY electronics, Arduino experiments, motor control, automation and projects where **software meets the physical world**.
+
+### ⚙️ Software & Backend
+
+Applications, APIs and tools designed to solve **practical problems** and automate repetitive tasks.
+
+### 🎨 Design & Interaction
+
+Combining design and technology through **UI/UX, 3D experiments, animations and interactive experiences**.
 
 ---
 
 ## ✦ Tech Stack
 
-<div align="center">
+### Frontend
 
-**Frontend**
+`HTML`   `CSS`   `JavaScript`   `React`   `Next.js`   `Tailwind CSS`
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+### Backend
 
-**Backend**
+`Node.js`   `Python`   `PHP`   `MySQL`   `MongoDB`   `REST API`
 
-<img src="https://skillicons.dev/icons?i=nodejs,python,php,mysql,mongodb" />
+### Hardware & Tools
 
-**Hardware & Tools**
-
-<img src="https://skillicons.dev/icons?i=arduino,cpp,git,github,vscode,figma" />
-
-</div>
+`Arduino`   `C++`   `Git`   `GitHub`   `VS Code`   `Figma`
 
 ---
 
@@ -100,9 +74,9 @@ My interests sit somewhere between **web development, design, software and hardw
 
 ## ✦ Contribution Snake
 
-<div align="center">
-
 🐍 **Eating contributions one commit at a time.**
+
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" width="100%">
 
@@ -112,39 +86,47 @@ My interests sit somewhere between **web development, design, software and hardw
 
 ## ✦ Projects
 
-<div align="center">
+### 🚀 Project One
 
-| 🚀 Web                                                                     | 🤖 Hardware                                                   |
-| -------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| Modern web applications, interactive interfaces and experimental websites. | Arduino projects, electronics experiments and DIY automation. |
+A project focused on building something useful, interactive and visually clean.
 
-| ⚙️ Software                                                         | 🎨 Creative                                                    |
-| ------------------------------------------------------------------- | -------------------------------------------------------------- |
-| APIs, utilities and applications built to solve practical problems. | UI/UX experiments, animations, 3D and interactive experiences. |
+**Stack:** React • JavaScript • CSS
 
-</div>
+### 🤖 Project Two
+
+A hardware/software experiment combining code with real-world electronics.
+
+**Stack:** Arduino • C++ • Electronics
+
+### ⚙️ Project Three
+
+A practical application designed to automate repetitive tasks.
+
+**Stack:** Python • API • Database
+
+### 🎨 Project Four
+
+An experimental interface exploring animation, interaction and modern design.
+
+**Stack:** React • UI/UX • Animation
 
 ---
 
 ## ✦ The Way I Build
 
-<div align="center">
-
-**💡 IDEA** → **🧠 PLAN** → **⚙️ BUILD** → **🐛 DEBUG** → **✨ IMPROVE** → **🚀 SHIP**
-
-</div>
+**IDEA** → 💡 Explore → **PLAN** → 🧠 Understand → **BUILD** → ⚙️ Create → **BREAK** → 🐛 Debug → **IMPROVE** → ✨ Refine → **SHIP** → 🚀 Release
 
 ---
 
 ## ✦ Developer Mindset
 
-<div align="center">
-
 > **Build it. Break it. Understand it. Improve it.**
 
-`CURIOUS`   `CREATIVE`   `EXPERIMENTAL`   `PERSISTENT`
+I don't believe everything needs to be perfect before it is built.
 
-</div>
+Sometimes the best way to learn something is simply to **make it**.
+
+`CURIOUS`   `CREATIVE`   `EXPERIMENTAL`   `PERSISTENT`
 
 ---
 
@@ -170,7 +152,7 @@ My interests sit somewhere between **web development, design, software and hardw
 
 <div align="center">
 
-🌊 🫧 🐟 🫧 🐠 🫧 🐟 🌊
+### Thanks for visiting my profile.
 
 **Designed & built by Milan • Always learning • Always building**
 
