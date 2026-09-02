@@ -1,239 +1,208 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=MILAN&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=CODE%20%E2%80%A2%20CREATE%20%E2%80%A2%20BUILD&descAlignY=58&descSize=18&color=0:020617,50:0f172a,100:0284c7" width="100%" alt="Milan Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=MILAN&fontSize=72&fontAlignY=38&fontColor=ffffff&desc=DEVELOPER%20%E2%80%A2%20CREATOR%20%E2%80%A2%20BUILDER&descSize=17&descAlignY=58&color=0:020617,55:0f172a,100:0369a1" width="100%" alt="Milan"/>
 
 <br>
 
-# `Hello, World!` 👋
+# Hey, I'm Milan 👋
 
-### I'm Milan — Developer & Creative Coder
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Frontend+Developer;Creative+Coder;UI%2FUX+Enthusiast;Web+%7C+Software+%7C+Hardware;Turning+ideas+into+real+things." alt="Typing"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+things+I+find+interesting.;Turning+ideas+into+real+projects.;Web+%7C+Software+%7C+Hardware;Always+learning.+Always+building." alt="Typing Animation"/>
+<br>
+
+<p>
+  <em>Building things that look good, work well, and make me curious.</em>
+</p>
 
 <br>
 
 <a href="https://github.com/milannnnnnnnnnnn">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+&nbsp;
 <a href="https://github.com/milannnnnnnnnnnn?tab=repositories">
-<img src="https://img.shields.io/badge/PROJECTS-0f172a?style=for-the-badge&logo=rocket&logoColor=38BDF8" alt="Projects"/>
+<img src="https://img.shields.io/badge/Projects-0f172a?style=for-the-badge&logo=rocket&logoColor=38BDF8" alt="Projects"/>
 </a>
 
 </div>
 
----
+<br>
 
-## `01` — ABOUT
+## ✦ About Me
 
-> **I don't just write code. I build things.**
+I'm a developer who enjoys turning ideas into **real, working projects**.
 
-I'm a developer interested in the intersection between **software, design and hardware**.
+My interests sit somewhere between **web development, design, software and hardware**. I like experimenting with new technologies, building interfaces, solving problems and occasionally making things that involve actual electronics.
 
-I enjoy taking an idea from a simple concept and turning it into something people can actually use.
+> **Code is the tool. Building is the fun part.**
 
-```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│   💻  WEB DEVELOPMENT                                │
-│   🎨  UI / UX                                        │
-│   ⚙️  SOFTWARE                                       │
-│   🤖  ARDUINO & HARDWARE                             │
-│   🧪  EXPERIMENTS & DIY PROJECTS                     │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
-
----
-
-## `02` — CURRENTLY
+<br>
 
 <div align="center">
 
-|    🔭 Building    |     🌱 Learning     |   🧠 Exploring  |
-| :---------------: | :-----------------: | :-------------: |
-|  Modern Web Apps  |   React & Next.js   |     UI / UX     |
-|  Arduino Projects | Backend Development |    Animations   |
-| Personal Projects |   APIs & Databases  | Creative Coding |
+### Currently building & learning
+
+**🌐 Modern Web**    **⚛️ React / Next.js**    **⚙️ Backend**    **🎨 UI/UX**    **🤖 Arduino**
 
 </div>
 
----
+<br>
 
-## `03` — TECHNOLOGY
+## ✦ What I Build
 
 <div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,php,bash&theme=dark" alt="Languages"/>
-
-### Development
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,laravel,flutter&theme=dark" alt="Development"/>
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=firebase,appwrite,mysql,mariadb&theme=dark" alt="Backend"/>
-
-### Creative
-
-<img src="https://skillicons.dev/icons?i=figma,ps,blender,unity&theme=dark" alt="Creative Tools"/>
-
-### Tools & Hardware
-
-<img src="https://skillicons.dev/icons?i=git,github,arduino&theme=dark" alt="Tools"/>
-
-</div>
-
----
-
-## `04` — THINGS I BUILD
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-### 🌐 WEB
+### 🌐 Web Experiences
 
-**Modern interfaces**
+Modern websites and applications with a focus on responsive design, performance and smooth user experiences.
 
-Responsive websites, web applications and interactive experiences.
+<br>
 
-`React` `Next.js` `JavaScript`
+`HTML` `CSS` `JavaScript` `React` `Next.js`
 
 </td>
 
 <td width="50%" valign="top">
 
-### ⚙️ SOFTWARE
+### 🤖 Hardware Projects
 
-**Applications & systems**
+DIY electronics, Arduino experiments, motor control, automation and projects where software meets the physical world.
 
-Projects focused on functionality, automation and useful tools.
+<br>
 
-`Node.js` `Java` `PHP`
+`C++` `Arduino` `Electronics`
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
-### 🤖 HARDWARE
+### ⚙️ Software
 
-**Software meets reality**
+Applications, APIs and tools designed to solve practical problems and automate repetitive tasks.
 
-Arduino, motors, sensors and DIY electronics.
+<br>
 
-`Arduino` `C++` `Electronics`
+`Node.js` `Java` `PHP` `Laravel`
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🎨 CREATIVE
+### 🎨 Creative Development
 
-**Design meets code**
+Combining design and technology through UI/UX, 3D experiments, animations and interactive experiences.
 
-UI/UX, 3D experiments and creative digital projects.
+<br>
 
 `Figma` `Blender` `Unity`
 
 </td>
-
 </tr>
 </table>
 
----
+</div>
 
-## `05` — GITHUB
+<br>
+
+## ✦ Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=milannnnnnnnnnnn&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,php,bash,react,nextjs,nodejs,nestjs,laravel,flutter,firebase,appwrite,mysql,mariadb,figma,ps,blender,unity,git,github,arduino&theme=dark&perline=12" alt="Tech Stack"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=milannnnnnnnnnnn&hide_border=true&theme=tokyonight&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="49%" alt="GitHub Streak"/>
+</div>
+
+<br>
+
+## ✦ GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=milannnnnnnnnnnn&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=milannnnnnnnnnnn&hide_border=true&theme=tokyonight&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="48%" alt="GitHub Streak"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milannnnnnnnnnnn&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=38BDF8&text_color=94A3B8&langs_count=8" width="42%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milannnnnnnnnnnn&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=38BDF8&text_color=94A3B8&langs_count=8" width="40%" alt="Top Languages"/>
 
 </div>
 
----
+<br>
 
-## `06` — CONTRIBUTIONS
+## ✦ Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=milannnnnnnnnnnn&bg_color=00000000&color=38BDF8&line=0284C7&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=milannnnnnnnnnnn&bg_color=00000000&color=38BDF8&line=0284C7&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Activity"/>
 
 </div>
 
----
+<br>
 
-## `07` — PROJECTS
+## ✦ Projects
 
 <div align="center">
+
+<p>
+A few things I've built, experimented with, or am currently working on.
+</p>
+
+<br>
 
 <a href="https://github.com/milannnnnnnnnnnn?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-38BDF8?style=for-the-badge&logo=github&logoColor=000000" alt="View Projects"/>
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-38BDF8?style=for-the-badge&logo=github&logoColor=020617" alt="Explore Projects"/>
 </a>
 
 </div>
 
 <br>
 
-```text
-╭─────────────────────────────────────────────────────╮
-│                                                     │
-│  🚀  BUILD                                          │
-│      Turn ideas into projects.                      │
-│                                                     │
-│  🧪  EXPERIMENT                                     │
-│      Break things. Learn. Build again.              │
-│                                                     │
-│  ⚡  SHIP                                           │
-│      Make something useful.                         │
-│                                                     │
-╰─────────────────────────────────────────────────────╯
-```
-
----
-
-## `08` — PHILOSOPHY
+## ✦ The Way I Build
 
 <div align="center">
 
-### `Learn → Build → Break → Fix → Repeat`
+### **Imagine → Build → Break → Learn → Improve**
 
 <br>
 
-**Good code solves problems.**
-**Great projects make people want to use them.**
+<em>
+I believe the best way to learn technology is to actually build something with it.
+</em>
 
 </div>
 
----
+<br>
 
-## `09` — CONNECT
+## ✦ Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/milannnnnnnnnnnn">
 <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
+&nbsp;
 <a href="https://linkedin.com">
 <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"/>
 </a>
-
+&nbsp;
 <a href="https://instagram.com">
 <img src="https://img.shields.io/badge/Instagram-020617?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=milannnnnnnnnnnn&style=flat-square&color=0284c7&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+<br><br>
+
+<sub>Designed & built by Milan • Always learning • Always building</sub>
 
 </div>
 
@@ -241,14 +210,6 @@ UI/UX, 3D experiments and creative digital projects.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=milannnnnnnnnnnn&style=flat-square&color=0284c7&label=VISITORS" alt="Profile Views"/>
-
-<br><br>
-
-`Thanks for stopping by.`
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0284c7,50:0f172a,100:020617" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0369a1,50:0f172a,100:020617" width="100%" alt="Footer"/>
 
 </div>
